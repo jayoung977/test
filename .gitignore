@@ -1,0 +1,5 @@
+*.txt
+# 추적
+!text2.txt  
+# *.jpg
+img/
